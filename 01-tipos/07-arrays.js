@@ -15,3 +15,4 @@ console.log(animales);
 console.log(animales[5]);
 console.log(typeof animales);
 console.log(animales.length);
+
